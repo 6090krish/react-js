@@ -1,0 +1,50 @@
+{
+    "Student": [
+      {
+        "id": 1,
+        "name": "Abc",
+        "Age": 15
+      },
+      {
+        "id": 2,
+        "name": "Het",
+        "Age": 16
+      },
+      {
+        "id": 3,
+        "name": "Raj",
+        "Age": 17
+      },
+      {
+        "id": 4,
+        "name": "Gaurang",
+        "Age": 18
+      },
+      {
+        "id": 5,
+        "name": "Siddharth",
+        "Age": 19
+      },
+      {
+        "id": 6,
+        "name": "Vikas",
+        "Age": 20
+      },
+      {
+        "id": 156,
+        "name": "Mohit",
+        "Age": 21,
+        "age": 22
+      },
+      {
+        "id": 7,
+        "name": "Krish",
+        "Age": 24
+      },
+      {
+        "id": 10,
+        "name": "Jaydip",
+        "age": 22
+      }
+    ]
+  }
